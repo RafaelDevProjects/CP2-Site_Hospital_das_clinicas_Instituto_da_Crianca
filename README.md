@@ -1,4 +1,4 @@
-# Hospital da Clinicas Instituto da criança #
+# Hospital da Clínicas Instituto da criança #
 ## Objetivo ##
 Recriar o site do ICr (Instituto da criança) do hospital das clinicas.
 <br>
