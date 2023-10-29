@@ -103,14 +103,13 @@ div.pesquisar{
 }
 
 .nav{
-    position: relative;
     background: #fff;
     border-top: 1px solid #eee;
     background-color: #1e1b54;
     transition: 0.15s all ease;
     border-bottom:1px solid #eee;
     font-size: 14px;
-    max-width: 100%;
+    box-shadow:0px 2px 7px rgba(0, 0, 0, 0.1);
     
 
 }
