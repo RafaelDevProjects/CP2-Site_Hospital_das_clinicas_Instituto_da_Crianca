@@ -1,0 +1,80 @@
+.conteudo {
+    background-color: #1e1b54;
+    display: flex;
+    justify-content: space-around;
+    padding: 30px 65px 50px;
+    border-top: .5px solid #fff;
+}
+
+.links, .contatos, .acreditacao {
+    display: flex;
+    flex-direction: column;
+    align-items: top;
+    gap: 12px;
+    max-height: 180px;
+    max-width: 300px;
+}
+
+.links-imagem {
+    padding: 14px 0;
+}
+
+.contatos-imagem {
+    padding: 9px 0;
+}
+
+.lista-links {
+    list-style: '>';
+    color: #dfd8d8;
+    padding: 8px;
+    font-size: 13px;
+    font-weight: 400;
+}
+
+.lista-links__item {
+    cursor: pointer;
+}
+
+.lista-links__link {
+    color: #dfd8d8;
+    text-decoration: none;
+    margin-left: 5px;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.contatos__redes-imagem {
+    cursor: pointer;
+}
+
+.acreditacao {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.acreditacao-imagem {
+    height: 65%;
+    width: 40%;
+    cursor: pointer;
+}
+
+.acreditacao__lojas {
+    display: flex;
+    gap: 14px;
+    max-width: 300px;
+}
+
+.acreditacao__lojas img {
+    width: 38%;
+    cursor: pointer;
+}
+
+.direitos {
+    background-color: #80b2ad;
+    color: #fff;
+    text-align: center;
+    padding: 23px;
+    font-size: 14px;
+    font-weight: 300;
+}
