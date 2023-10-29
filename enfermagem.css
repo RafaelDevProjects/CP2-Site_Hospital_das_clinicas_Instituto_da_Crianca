@@ -2,14 +2,21 @@
     background-image: url(https://icr.usp.br/wp-content/uploads/2017/11/breadcumbs_bg.png);
     text-align: center;
     padding: 30px 0px;
+    font-size: 14px;
+    margin-bottom: 50px;
     
 }
+
+.justify{
+    text-align: justify;
+}
+
 .menu-enfermagem a, .menu-enfermagem span{
     color: white;
     text-decoration: none;
 }
 .enfermagem-conteudo{
-    width: 1400px;
+    width: 1150px;
     margin: 30px auto;
     color: #59595a;
 }
@@ -18,7 +25,8 @@
     font-weight: 400;
     margin-bottom: 20px;
     line-height: 25px;
-    letter-spacing: 1px;
+    letter-spacing: 0.5px;
+    margin: 0 0 20px;
 }
 .enfermagem-titulo{
     display: flex;
@@ -26,11 +34,32 @@
     column-gap: 32px;
 }
 .enfermagem-titulo h2{
-    margin-top: 0;
-    color: black;
-    font-size: 42px;
-    font-weight: 700;
+    font-size: 24.56pt;
+    line-height: 1.4em;
+    font-weight: 800;
+    margin: 0px;
+    position: relative;
+    background: url(https://icr.usp.br/wp-content/uploads/2017/11/title_border.png);
+    background-repeat: no-repeat;
+    background-position: left bottom;
+    padding-bottom: 7px;
+    color: #212121;
+    margin-top: -6px;
+    margin-bottom: 20px;
 }
+
 .enfermagem-lista{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
     padding: 14px;
+    font-size: 16px;
+    list-style-type: none;
+    margin-left: -12px;
 }
+
+.img-size-enfermagem{
+    margin-bottom: 53px ;
+    width: 361px;
+}
+
