@@ -27,7 +27,7 @@ body{
 
 .endereco{
     display: inline;
-    margin-left: 100px;
+    margin-left: 257px;
     margin-right: 22px;
     cursor: pointer;
 }
@@ -104,7 +104,7 @@ div.pesquisar{
     vertical-align: middle;
     position: absolute;
     top: 80px;
-    left: 100px;
+    left: 280px;
 }
 
 .parceiros-conteiner{
@@ -133,9 +133,10 @@ nav ul{
     margin: 0;
     padding: 0;
     width: 100%;
-    margin-left: 100px;
+    margin-left: 280px;
     
 }
+
 
 ul li{
     display: flex;
