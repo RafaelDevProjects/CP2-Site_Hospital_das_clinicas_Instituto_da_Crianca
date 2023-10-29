@@ -3,7 +3,6 @@
     display: flex;
     justify-content: space-around;
     padding: 30px 65px 50px;
-    border-top: .5px solid #fff;
 }
 
 .links, .contatos, .acreditacao {
