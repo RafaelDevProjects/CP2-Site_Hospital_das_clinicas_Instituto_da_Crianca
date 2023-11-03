@@ -13,4 +13,8 @@ paginas para recriar:
 - [ ] Main
 - [x] Footer
 
+![Home](image.png)
+![portal do paciente](image-1.png)
+![enfermagem](image-2.png)
+![footer](image-3.png)
 
