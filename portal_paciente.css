@@ -1,0 +1,155 @@
+.menu_potal_paciente{
+    background-image: url(https://icr.usp.br/wp-content/uploads/2017/11/breadcumbs_bg.png);
+    text-align: center;
+    padding: 30px 0px;
+    font-size: 14px;
+    margin-bottom: 50px;
+}
+ 
+.menu_potal_paciente a, .menu_potal_paciente span{
+    color: white;
+    text-decoration: none;
+}
+ 
+.portal_paciente_titulo{
+    display: flex;
+    flex-direction: column;
+    margin-left: 257px;
+    margin-right: 257px;
+    letter-spacing: 0.5px;
+}
+ 
+.portal_paciente_titulo h2{
+    font-size: 24.56pt;
+    line-height: 1.4em;
+    font-weight: 800;
+    margin: 0px;
+    position: relative;
+    background: url(https://icr.usp.br/wp-content/uploads/2017/11/title_border.png);
+    background-repeat: no-repeat;
+    background-position: left bottom;
+    padding-bottom: 7px;
+    color: #212121;
+    margin-top: -6px;
+    margin-bottom: 20px;
+}
+ 
+.portal_paciente_titulo a img{
+    width: 282px;
+    height: 66px;
+}
+ 
+.portal_paciente_titulo p{
+    text-align: justify;
+    margin-top: 20px;
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 80px;
+    color: #59595a;
+}
+ 
+.portal_paciente_titulo h3{
+    font-size: 18px;
+    text-align: left;
+    font-weight: 800;
+    margin-bottom: 15px;
+    color: #666;
+}
+ 
+.portal_paciente_titulo h4{
+    font-size: 18px;
+    text-align: center;
+    font-weight: 800;
+    margin-bottom: 15px;
+    color: #666;
+}
+ 
+.portal_paciente_titulo h5{
+    font-size: 18px;
+    text-align: left;
+    font-weight: 700;
+    margin-bottom: 30px;
+    color: #666;
+}
+ 
+.tabela{
+    border: 0;
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+.portal_paciente_tabela1{
+    background-color: #2b7a91;
+    text-align: center;
+    margin-bottom: 5px;
+    font-weight: 600;
+    padding: 5px;
+    display: table-cell;
+    border-collapse: collapse;
+    border-spacing: 0;
+    border: 0;
+}
+ 
+.portal_paciente_tabela2{
+    background-color: #d6ebf2;
+    border-collapse: collapse;
+    font-weight: 600;
+    text-align: center;
+    color: #666;
+    padding: 5px;
+    border-collapse: collapse;
+    border-spacing: 0;
+    border: 0;
+   
+}
+ 
+.portal_paciente_tabela3{
+    background-color: #88c6d8;
+    border-collapse: collapse;
+    font-weight: 600;
+    text-align: center;
+    color: #666;
+    padding: 5px;
+    border-collapse: collapse;
+    border-spacing: 0;
+    border: 0;
+}
+ 
+.portal_paciente_titulo h6{
+    font-weight: 700;
+    color: #666;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    text-align: left;
+    font-size: 18px;
+}
+ 
+.tabela2{
+    border: 0;
+    border-collapse: collapse;
+    border-spacing: 0;
+    margin-top: 50px;
+}
+ 
+.portal_paciente_tabela4{
+    text-align: center;
+    font-weight: 700;
+    background-color: #ebebeb ;
+    padding: 5px;
+}
+ 
+.portal_paciente_tabela5{
+    text-align: center;
+    font-weight: 700;
+    background-color: #f2f2f2 ;
+    padding: 5px;
+}
+ 
+.texto{
+    color: #666;
+    font-weight: 400;
+}
+ 
+.texto2{
+    text-decoration: none;
+}
+ 
