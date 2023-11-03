@@ -12,9 +12,12 @@ paginas para recriar:
   - [x] nav
 - [x] Main
 - [x] Footer
-
+### Home ###
 ![Home](image.png)
+### Portal do paciente ###
 ![portal do paciente](image-1.png)
+### Enfermagem ###
 ![enfermagem](image-2.png)
+### Footer ###
 ![footer](image-3.png)
 
